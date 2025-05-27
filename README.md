@@ -1,6 +1,6 @@
 # GrandHaritage
 
-As Just Engineers our GameJam project GrandHaritage
+As Just Engineers team our GameJam project GrandHaritage
 
 https://muhammed-emin-dogan.itch.io/just-engineers-grandharitage - https://itch.io/jam/kbu-gamejam25
 
