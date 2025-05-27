@@ -1,4 +1,4 @@
-# GameJam_Project
+# GrandHaritage
 
 As Just Engineers our GameJam project GrandHaritage
 
